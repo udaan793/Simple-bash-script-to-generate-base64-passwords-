@@ -3,7 +3,7 @@ This bash script can generate any number of passwords wit any number of length o
 ## INSTALLATION
 ```
 git clone https://github.com/udaan793/Simple-bash-script-to-generate-base64-passwords-/edit/main/README.md
-./pawrd.sh
+./pswrd.sh
 ```
 ## PRECAUTIONS
 ```
